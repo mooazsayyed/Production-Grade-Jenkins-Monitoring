@@ -109,6 +109,6 @@ SHOW TAG VALUES FROM job WITH KEY = repo WHERE "owner" =~ /^($folder)$/;
 ![Jenkins-Monitoring](https://github.com/user-attachments/assets/4deb1963-c092-41b0-a448-b288bbbd29e7)
 
 
-#### _*CHECK THE ./Influxdb-queries file for influx quereies*_
+#### _*CHECK THE ./influx-quires file for influx quereies*_
 
 📬 _Feel free to contribute or suggest improvements!_
