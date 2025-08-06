@@ -1,4 +1,4 @@
-# Production Grade Jenkins Monitoring with Docker (Prometheus, Grafana, InfluxDB)
+# Production Grade Jenkins Monitoring with Prometheus, Grafana, InfluxDB
 
 This guide walks you through setting up a Jenkins monitoring stack using Docker only, with data visualization in Grafana, data collection in InfluxDB, and Jenkins pipelines sending metrics to Influx.
 
